@@ -1,1 +1,5 @@
 python-telegram-bot
+urllib3
+bs4
+dateutils
+
